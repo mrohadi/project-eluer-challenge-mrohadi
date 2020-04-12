@@ -5,4 +5,4 @@
 Hi All!
 
 I'm here to join the project euler challenge to gain more knowlegde and experience in programming.
-### The Rule of The 
+### The Rule of The #ProjectEuler Challenge:
