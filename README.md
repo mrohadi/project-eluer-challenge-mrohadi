@@ -4,5 +4,5 @@
 
 Hi All!
 
-Mrohadi here, I like jQuary.js 
-I really want to be a professional developer.
+I'm here to join the project euler challenge to gain more knowlegde and experience in programming.
+### The Rule of The 
